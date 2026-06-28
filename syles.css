@@ -1,0 +1,33 @@
+body {
+  background-color: #8c4e69; /* Sunset Purple */
+  color: #ffe0da; /* Light Peach */
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#app {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #2b1121; /* Dark Plum */
+  padding: 30px;
+  border-radius: 8px;
+}
+
+h1 {
+  color: #2bd7df;
+} /* Teal */
+
+.question-block {
+  margin-bottom: 25px;
+  border-bottom: 1px solid #fd765d; /* Sunset Orange */
+  padding-bottom: 10px;
+}
+
+button {
+  background-color: #fd765d;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
