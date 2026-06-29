@@ -1,0 +1,1 @@
+This code runs an interactive Javascript quiz that decides your Affirmation Nation video game character based on a few questions. It uses html, css and javascript and was run in codesandbox. 
